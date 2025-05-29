@@ -7,7 +7,6 @@ function blowOutCandle() {
 function showFireworks() {
   const fireworks = document.getElementById('fireworks');
   fireworks.style.display = 'block';
-
   fireworks.innerHTML = "<p style='color: white; font-size: 24px;'>✨ Fireworks! ✨</p>";
 
   setTimeout(() => {
