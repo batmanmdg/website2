@@ -17,13 +17,6 @@ h1 {
   cursor: pointer;
 }
 
-#fireworks {
-  display: none;
-  height: 200px;
-  background: black;
-  margin-top: 20px;
-}
-
 #make-a-wish {
   display: none;
   font-size: 2rem;
